@@ -1,0 +1,1524 @@
+﻿Log file open, 03/19/22 14:51:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=12432)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RpgInventory
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19206456"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.0-19206456+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\mario\Documents\Unreal Projects\RpgInventory\RpgInventory.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="4c20eab446728ee47541f4944fc02446"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.331790
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-4D7FDF734B9645A63AE200A2619199C6
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19206456
+LogInit: Engine Version: 5.0.0-19206456+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19206456+++UE5+Release-5.0
+LogInit: Net CL: 19206456
+LogInit: OS: Windows 11 (21H2) (), CPU: Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Mar  2 2022 05:06:12
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 33
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.03.19-14.51.32:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.03.19-14.51.32:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.03.19-14.51.32:431][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.03.19-14.51.32:432][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.03.19-14.51.32:450][  0]LogD3D12RHI: Aftermath initialized
+[2022.03.19-14.51.32:450][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.03.19-14.51.32:631][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.03.19-14.51.32:631][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 16300MB of shared system memory, 1 output[s]
+[2022.03.19-14.51.32:695][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2022.03.19-14.51.32:695][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16300MB of shared system memory, 0 output[s]
+[2022.03.19-14.51.32:711][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.03.19-14.51.32:711][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16300MB of shared system memory, 0 output[s]
+[2022.03.19-14.51.32:711][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.03.19-14.51.32:711][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.03.19-14.51.32:711][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.03.19-14.51.32:711][  0]LogHAL: Display: Platform has ~ 32 GB [34184007680 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.19-14.51.32:711][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.03.19-14.51.32:711][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.03.19-14.51.32:711][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.19-14.51.32:712][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.03.19-14.51.32:712][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mario/Documents/Unreal Projects/RpgInventory/Saved/Config/WindowsEditor/Editor.ini]
+[2022.03.19-14.51.32:712][  0]LogInit: Computer: DOOM-SLAYER
+[2022.03.19-14.51.32:712][  0]LogInit: User: mario
+[2022.03.19-14.51.32:712][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.03.19-14.51.32:712][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.19-14.51.32:712][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.03.19-14.51.32:712][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.03.19-14.51.32:712][  0]LogMemory: Process Physical Memory: 287.09 MB used, 305.67 MB peak
+[2022.03.19-14.51.32:712][  0]LogMemory: Process Virtual Memory: 255.14 MB used, 255.14 MB peak
+[2022.03.19-14.51.32:712][  0]LogMemory: Physical Memory: 9883.64 MB used,  22716.77 MB free, 32600.41 MB total
+[2022.03.19-14.51.32:712][  0]LogMemory: Virtual Memory: 10438.91 MB used,  79505.50 MB free, 89944.41 MB total
+[2022.03.19-14.51.32:712][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.03.19-14.51.32:717][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.19-14.51.32:735][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.03.19-14.51.32:736][  0]LogInit: Using OS detected language (en-GB).
+[2022.03.19-14.51.32:736][  0]LogInit: Using OS detected locale (en-GB).
+[2022.03.19-14.51.32:746][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.03.19-14.51.32:906][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.19-14.51.32:920][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.03.19-14.51.32:920][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.03.19-14.51.32:920][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2022.03.19-14.51.32:920][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2022.03.19-14.51.32:932][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.19-14.51.32:932][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.19-14.51.33:121][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.03.19-14.51.33:123][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.03.19-14.51.33:123][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.03.19-14.51.33:191][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.03.19-14.51.33:245][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.03.19-14.51.33:252][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.03.19-14.51.33:271][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.03.19-14.51.33:480][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.03.19-14.51.33:480][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.03.19-14.51.33:511][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.19-14.51.33:511][  0]LogWindows: EnumDisplayDevices:
+[2022.03.19-14.51.33:511][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.03.19-14.51.33:511][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.03.19-14.51.33:512][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.03.19-14.51.33:512][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.19-14.51.33:512][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.19-14.51.33:512][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.19-14.51.33:512][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.19-14.51.33:512][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.03.19-14.51.33:512][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.03.19-14.51.33:512][  0]LogD3D12RHI:   Driver Version: 30.0.14.9729 (internal:30.0.14.9729, unified:30.0.14.9729)
+[2022.03.19-14.51.33:512][  0]LogD3D12RHI:      Driver Date: 12-15-2021
+[2022.03.19-14.51.33:512][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2022.03.19-14.51.33:512][  0]LogD3D12RHI: Async texture creation enabled
+[2022.03.19-14.51.33:512][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.03.19-14.51.33:522][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.03.19-14.51.33:529][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/mario/Documents/Unreal Projects/RpgInventory/RpgInventory.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mario/Documents/Unreal Projects/RpgInventory/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mario/Documents/Unreal Projects/RpgInventory/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mario/Documents/Unreal Projects/RpgInventory/RpgInventory.uproject"  -platform=all'
+[2022.03.19-14.51.33:530][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/mario/Documents/Unreal Projects/RpgInventory/RpgInventory.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mario/Documents/Unreal Projects/RpgInventory/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mario/Documents/Unreal Projects/RpgInventory/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mario/Documents/Unreal Projects/RpgInventory/RpgInventory.uproject"  -platform=all" ]
+[2022.03.19-14.51.33:554][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.03.19-14.51.33:563][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.03.19-14.51.33:563][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.03.19-14.51.33:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.19-14.51.33:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.19-14.51.33:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.19-14.51.33:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.19-14.51.33:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.19-14.51.33:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.19-14.51.33:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.19-14.51.33:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.19-14.51.33:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.19-14.51.33:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.19-14.51.33:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.03.19-14.51.33:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.03.19-14.51.33:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.19-14.51.33:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.19-14.51.33:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.19-14.51.33:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.03.19-14.51.33:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.19-14.51.33:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.19-14.51.33:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.03.19-14.51.33:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.03.19-14.51.33:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.03.19-14.51.33:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.19-14.51.33:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.19-14.51.33:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.19-14.51.33:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.03.19-14.51.33:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.19-14.51.33:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.19-14.51.33:592][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.03.19-14.51.33:601][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.19-14.51.33:603][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.03.19-14.51.33:603][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.03.19-14.51.33:603][  0]LogTargetPlatformManager:   ADPCM
+[2022.03.19-14.51.33:603][  0]LogTargetPlatformManager:   PCM
+[2022.03.19-14.51.33:606][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.03.19-14.51.33:606][  0]LogTargetPlatformManager:   BINKA
+[2022.03.19-14.51.33:606][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.03.19-14.51.33:606][  0]LogTargetPlatformManager:   OGG
+[2022.03.19-14.51.33:606][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.03.19-14.51.33:606][  0]LogTargetPlatformManager:   OPUS
+[2022.03.19-14.51.33:658][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.03.19-14.51.33:658][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   SF_METAL
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.03.19-14.51.33:664][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.03.19-14.51.33:667][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.03.19-14.51.33:667][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.03.19-14.51.33:667][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.03.19-14.51.33:667][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.03.19-14.51.33:667][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.03.19-14.51.33:667][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.03.19-14.51.33:667][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.03.19-14.51.33:667][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.19-14.51.33:667][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.03.19-14.51.33:667][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.03.19-14.51.33:668][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.03.19-14.51.33:668][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.03.19-14.51.33:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.19-14.51.33:670][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.03.19-14.51.33:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.19-14.51.33:670][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.03.19-14.51.33:688][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1025 MiB)
+[2022.03.19-14.51.33:688][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.19-14.51.33:688][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.03.19-14.51.33:700][  0]LogDerivedDataCache: Speed tests for C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.19-14.51.33:700][  0]LogDerivedDataCache: Display: Performance to C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=173.94MBs, RandomWriteSpeed=177.84MBs. Assigned SpeedClass 'Local'
+[2022.03.19-14.51.33:701][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.19-14.51.33:701][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.19-14.51.33:701][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.03.19-14.51.33:706][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.03.19-14.51.33:706][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.03.19-14.51.33:706][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Intermediate/Shaders/WorkingDirectory/9352/).
+[2022.03.19-14.51.33:706][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mario/AppData/Local/Temp/UnrealShaderWorkingDir/D587BA4A43CDE6EA63D2829028D707B8/'.
+[2022.03.19-14.51.33:706][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.19-14.51.33:707][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.03.19-14.51.35:120][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.19-14.51.35:121][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.19-14.51.35:161][  0]LogAssetRegistry: FAssetRegistry took 0.0133 seconds to start up
+[2022.03.19-14.51.35:167][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.03.19-14.51.35:345][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.03.19-14.51.35:346][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.03.19-14.51.35:604][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.03.19-14.51.35:604][  0]LogDeviceProfileManager: Active device profile: [000007098996A9C0][000007097F740000 50] WindowsEditor
+[2022.03.19-14.51.35:604][  0]LogDeviceProfileManager: Profiles: [000007098996A480][000007097F745000 50] Windows, [000007098996A9C0][000007097F740000 50] WindowsEditor, [0000070989969140][000007097F6F7800 50] WindowsServer, [0000070989966E40][000007097F66C800 50] WindowsClient, [0000070989968880][000007097F742800 50] IOS, [0000070989967380][000007097021A000 50] iPadAir2, [000007098996B0C0][0000070989D62800 50] IPadPro, [000007098996B440][0000070989D60000 50] iPadAir3, [00000709899678C0][0000070989D67800 50] iPadAir4, [000007098996AB80][0000070989D6A000 50] iPadMini4, [0000070989968500][0000070989D6C800 50] iPadMini5, [0000070989968F80][0000070982FDC800 50] iPadMini6, [000007098996D900][0000070989D75000 50] iPhone6S, [000007098996D740][0000070989D72800 50] iPhone7, [000007098996D3C0][0000070989D70000 50] iPodTouch7, [000007098996A2C0][0000070989D7A000 50] iPhone6SPlus, [0000070989968340][0000070989D7C800 50] iPhone7Plus, [000007098996AF00][0000070989D65000 50] iPhoneSE, [0000070989968A40][0000070989D80000 50] iPhone8, [0000070989966C80][0000070989D85000 50] iPhone8Plus, [0000070989968C00][0000070989D87800 50] iPhoneX, [000007098996DAC0][0000070989D8A000 50] iPhoneXS, [0000070989969300][0000070989D8C800 50] iPhoneXSMax, [000007098996BB40][0000070989D77800 50] iPhoneXR, [0000070989968180][0000070989D90000 50] iPhone11, [000007098996C5C0][0000070989D95000 50] iPhone11Pro, [0000070989966040][0000070989D97800 50] iPhone11ProMax, [00000709899686C0][0000070989D9A000 50] iPhoneSE2, [0000070989967A80][0000070989D9C800 50] iPhone12Mini, [0000070989967FC0][0000070989D82800 50] iPhone12, [0000070989966AC0][0000070989DA0000 50] iPhone12Pro, [00000709899671C0][0000070989DA5000 50] iPhone12ProMax, [0000070989968DC0][0000070989DA7800 50] iPhone13Mini, [0000070989969F40][0000070989DAA000 50] iPhone13, [000007098996C780][0000070989DAC800 50] iPhone13Pro, [000007098996D200][0000070989D92800 50] iPhone13ProMax, [000007098996B980][0000070989DD0000 50] iPadPro105, [0000070989966740][0000070989DD5000 50] iPadPro129, [0000070989965E80][0000070989DD7800 50] iPadPro97, [0000070989969D80][0000070989DDA000 50] iPadPro2_129, [0000070989967C40][0000070989DDC800 50] iPad5, [000007098996B280][0000070989DA2800 50] iPad6, [000007098996C400][0000070989DE0000 50] iPad7, [000007098996D040][0000070989DE5000 50] iPad8, [0000070989969A00][0000070989DE7800 50] iPad9, [0000070989969680][0000070989DEA000 50] iPadPro11, [000007098996A100][0000070989DEC800 50] iPadPro2_11, [000007098996C080][0000070989DD2800 50] iPadPro3_11, [000007098996C940][0000070989DF0000 50] iPadPro3_129, [000007098996CE80][0000070989DF5000 50] iPadPro4_129, [0000070989969840][0000070989DF7800 50] iPadPro5_129, [000007098996E000][0000070989DFA000 50] AppleTV, [000007098996B7C0][0000070989DFC800 50] AppleTV4K, [000007098996DE40][0000070989DE2800 50] TVOS, [0000070989E50380][0000070989E02800 50] Mac, [0000070989E50700][0000070989E00000 50] MacEditor, [0000070989E52140][0000070989E07800 50] MacClient, [0000070989E52680][0000070989E0A000 50] MacServer, [0000070989E54600][0000070989DF2800 50] Linux, [0000070989E54980][0000070989E0C800 50] LinuxEditor, [0000070989E532C0][0000070989E40000 50] LinuxArm64Editor, [0000070989E52300][0000070989E45000 50] LinuxArm64, [0000070989E52D80][0000070989E47800 50] LinuxClient, [0000070989E540C0][0000070989E4A000 50] LinuxArm64Client, [0000070989E508C0][0000070989E4C800 50] LinuxServer, [0000070989E51880][0000070989E05000 50] LinuxArm64Server, [0000070989E54440][0000070989E10000 50] Android, [0000070989E50E00][0000070989E15000 50] Android_Preview_OpenGL, [0000070989E53F00][0000070989E17800 50] Android_Preview_Vulkan, [0000070989E51DC0][0000070989E1A000 50] Android_Low, [0000070989E547C0][0000070989E1C800 50] Android_Mid, [0000070989E54B40][0000070989E42800 50] Android_High, [0000070989E54280][0000070989E20000 50] Android_Default, [0000070989E50FC0][0000070989E25000 50] Android_Adreno4xx, [0000070989E51F80][0000070989E27800 50] Android_Adreno5xx_Low, [0000070989E51C00][0000070989E2A000 50] Android_Adreno5xx, [0000070989E50000][0000070989E2C800 50] Android_Adreno6xx, [0000070989E53B80][0000070989E12800 50] Android_Adreno6xx_Vulkan, [0000070989E53640][0000070989E30000 50] Android_Mali_T6xx, [0000070989E52A00][0000070989E35000 50] Android_Mali_T7xx, [0000070989E54EC0][0000070989E37800 50] Android_Mali_T8xx, [0000070989E55240][0000070989E3A000 50] Android_Mali_G71, [0000070989E52840][0000070989E3C800 50] Android_Mali_G72, [0000070989E55080][0000070989E22800 50] Android_Mali_G72_Vulkan, [0000070989E501C0][0000070989E60000 50] Android_Mali_G76, [0000070989E55780][0000070989E65000 50] Android_Mali_G76_Vulkan, [0000070989E524C0][0000070989E67800 50] Android_Mali_G77, [0000070989E55B00][0000070989E6A000 50] Android_Mali_G77_Vulkan, [0000070989E52BC0][0000070989E6C800 50] Android_Mali_G78, [0000070989E55E80][0000070989E32800 50] Android_Mali_G78_Vulkan, [0000070989E516C0][0000070989E70000 50] Android_Mali_G710, [0000070989E563C0][0000070989E75000 50] Android_Mali_G710_Vulkan, [0000070989E50540][0000070989E77800 50] Android_Vulkan_SM5, [0000070989E56740][0000070989E7A000 50] Android_PowerVR_G6xxx, [0000070989E50A80][0000070989E7C800 50] Android_PowerVR_GT7xxx, [0000070989E56AC0][0000070989E62800 50] Android_PowerVR_GE8xxx, [0000070989E55CC0][0000070989E80000 50] Android_PowerVR_GM9xxx, [0000070989E57000][0000070989E85000 50] Android_PowerVR_GM9xxx_Vulkan, [0000070989E555C0][0000070989E87800 50] Android_TegraK1, [0000070989E56E40][0000070989E8A000 50] Android_Unknown_Vulkan, [0000070989E51180][0000070989E8C800 50] Oculus_Quest, [0000070989E57540][0000070989E72800 50] Oculus_Quest2, [0000070989E56580][0000070989E90000 50] HoloLens, 
+[2022.03.19-14.51.35:605][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.03.19-14.51.35:632][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.03.19-14.51.35:826][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.19-14.51.35:826][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.19-14.51.35:826][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.19-14.51.35:826][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.19-14.51.35:826][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.19-14.51.35:843][  0]LogNetVersion: RpgInventory 1.0.0, NetCL: 19206456, EngineNetVer: 23, GameNetVer: 0 (Checksum: 547410067)
+[2022.03.19-14.51.35:983][  0]LogSlate: Border
+[2022.03.19-14.51.35:983][  0]LogSlate: BreadcrumbButton
+[2022.03.19-14.51.35:983][  0]LogSlate: Default
+[2022.03.19-14.51.35:983][  0]LogSlate: Icons.Save
+[2022.03.19-14.51.35:983][  0]LogSlate: Icons.Toolbar.Settings
+[2022.03.19-14.51.35:983][  0]LogSlate: ListView
+[2022.03.19-14.51.35:983][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.03.19-14.51.35:983][  0]LogSlate: SoftwareCursor_Grab
+[2022.03.19-14.51.35:983][  0]LogSlate: TableView.DarkRow
+[2022.03.19-14.51.35:983][  0]LogSlate: TableView.Row
+[2022.03.19-14.51.35:983][  0]LogSlate: TreeView
+[2022.03.19-14.51.36:213][  0]SourceControl: Source control is disabled
+[2022.03.19-14.51.36:242][  0]SourceControl: Source control is disabled
+[2022.03.19-14.51.36:242][  0]SourceControl: Source control is disabled
+[2022.03.19-14.51.36:358][  0]LogUObjectArray: 20536 objects as part of root set at end of initial load.
+[2022.03.19-14.51.36:358][  0]LogUObjectAllocator: 5578240 out of 0 bytes used by permanent object pool.
+[2022.03.19-14.51.36:358][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.19-14.51.36:755][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B039BE1742FAF44E45DF799EA19EA43A | Instance: 67408BA54218783E1C68448B1A500E00 (DOOM-SLAYER-9352).
+[2022.03.19-14.51.36:792][  0]LogPython: Using Python 3.9.7
+[2022.03.19-14.51.37:500][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.19-14.51.37:505][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.19-14.51.37:562][  0]LogLinker: Warning: Failed to load '/Game/MapSystem/Actors/MapBoundaries/NewBlueprint': Can't find file.
+[2022.03.19-14.51.37:562][  0]LogLinker: Warning: Failed to load '/Game/MapSystem/Actors/MapBoundaries/NewBlueprint': Can't find file.
+[2022.03.19-14.51.37:562][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/MapSystem/Actors/MapBoundaries/NewBlueprint.NewBlueprint_C'
+[2022.03.19-14.51.37:601][  0]SourceControl: Source control is disabled
+[2022.03.19-14.51.37:604][  0]SourceControl: Source control is disabled
+[2022.03.19-14.51.37:612][  0]SourceControl: Source control is disabled
+[2022.03.19-14.51.37:625][  0]LogUProjectInfo: Found projects:
+[2022.03.19-14.51.37:953][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.19-14.51.37:985][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.19-14.51.38:004][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.19-14.51.38:004][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.19-14.51.38:102][  0]LogCollectionManager: Loaded 0 collections in 0.001533 seconds
+[2022.03.19-14.51.38:188][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mario/Documents/Unreal Projects/RpgInventory/Saved/Collections/' took 0.00s
+[2022.03.19-14.51.38:188][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mario/Documents/Unreal Projects/RpgInventory/Content/Developers/mario/Collections/' took 0.00s
+[2022.03.19-14.51.38:188][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mario/Documents/Unreal Projects/RpgInventory/Content/Collections/' took 0.00s
+[2022.03.19-14.51.38:471][  0]LogEngine: Initializing Engine...
+[2022.03.19-14.51.38:481][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.03.19-14.51.38:483][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.19-14.51.38:752][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.19-14.51.38:752][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.19-14.51.38:762][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-14.51.38:787][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.19-14.51.38:788][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.19-14.51.38:808][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.19-14.51.38:809][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.19-14.51.38:809][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.03.19-14.51.38:809][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.19-14.51.38:809][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.19-14.51.38:809][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-14.51.38:809][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-14.51.38:809][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-14.51.38:809][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-14.51.38:809][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-14.51.38:809][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.19-14.51.38:809][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-14.51.38:809][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-14.51.38:810][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-14.51.38:810][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-14.51.38:810][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-14.51.38:816][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.03.19-14.51.38:851][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KORP THALLIUM)
+[2022.03.19-14.51.38:851][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-14.51.38:854][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-14.51.38:854][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-14.51.38:854][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.03.19-14.51.38:854][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.03.19-14.51.38:855][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.03.19-14.51.38:855][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.03.19-14.51.38:855][  0]LogInit: FAudioDevice initialized.
+[2022.03.19-14.51.38:856][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.19-14.51.38:856][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.19-14.51.38:856][  0]LogInit: Texture streaming: Enabled
+[2022.03.19-14.51.38:882][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.0-19206456+++UE5+Release-5.0
+[2022.03.19-14.51.38:889][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.19-14.51.38:907][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.03.19-14.51.38:913][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.03.19-14.51.38:913][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.03.19-14.51.39:788][  0]LogLiveCoding: Display: First instance in process group "UE_RpgInventory_0xff887a5e", spawning console
+[2022.03.19-14.51.39:788][  0]LogLiveCoding: Display: Waiting for server
+[2022.03.19-14.51.39:788][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.03.19-14.51.39:816][  0]LogInit: Transaction tracking system initialized
+[2022.03.19-14.51.39:877][  0]BlueprintLog: New page: Editor Load
+[2022.03.19-14.51.40:046][  0]LocalizationService: Localization service is disabled
+[2022.03.19-14.51.40:084][  0]TimingProfiler: Initialize
+[2022.03.19-14.51.40:084][  0]TimingProfiler: OnSessionChanged
+[2022.03.19-14.51.40:084][  0]LoadingProfiler: Initialize
+[2022.03.19-14.51.40:084][  0]LoadingProfiler: OnSessionChanged
+[2022.03.19-14.51.40:084][  0]NetworkingProfiler: Initialize
+[2022.03.19-14.51.40:084][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.19-14.51.40:084][  0]MemoryProfiler: Initialize
+[2022.03.19-14.51.40:085][  0]MemoryProfiler: OnSessionChanged
+[2022.03.19-14.51.40:654][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mario/Documents/Unreal Projects/RpgInventory/Content/' took 0.01s
+[2022.03.19-14.51.40:654][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.03.19-14.51.40:717][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.19-14.51.40:719][  0]SourceControl: Source control is disabled
+[2022.03.19-14.51.40:719][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.765
+[2022.03.19-14.51.40:719][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.19-14.51.40:719][  0]LightingResults: New page: Lighting Build
+[2022.03.19-14.51.40:724][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-14.51.40:724][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-14.51.40:725][  0]MapCheck: New page: Map Check
+[2022.03.19-14.51.40:725][  0]LightingResults: New page: Lighting Build
+[2022.03.19-14.51.40:731][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.19-14.51.40:734][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.19-14.51.40:777][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.03.19-14.51.40:777][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.19-14.51.40:778][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-14.51.40:778][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.03.19-14.51.40:781][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.19-14.51.40:789][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.03.19-14.51.40:790][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.19-14.51.40:790][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2022.03.19-14.51.40:790][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.071
+[2022.03.19-14.51.40:800][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.846
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: ================================================
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.03.19-14.51.40:800][  0]LogShaderCompilers: Display: ================================================
+[2022.03.19-14.51.40:888][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.03.19-14.51.40:888][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.03.19-14.51.40:888][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.03.19-14.51.40:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-14.51.40:902][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-14.51.40:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-14.51.40:912][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-14.51.41:080][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:080][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:081][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:081][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:082][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:082][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:083][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:083][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:085][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:085][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:086][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:086][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:086][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:087][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:088][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:088][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:089][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdv.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:089][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:091][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:091][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:093][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.03.19-14.51.41:093][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.03.19-14.51.41:341][  0]LogSlate: Took 0.000556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.19-14.51.41:345][  0]LogSlate: Took 0.000568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.19-14.51.41:346][  0]LogSlate: Took 0.000455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.19-14.51.41:348][  0]LogSlate: Took 0.000475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.19-14.51.41:349][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.19-14.51.42:084][  0]LogStall: Startup...
+[2022.03.19-14.51.42:086][  0]LogStall: Startup complete.
+[2022.03.19-14.51.43:965][  0]LogLoad: (Engine Initialization) Total time: 13.01 seconds
+[2022.03.19-14.51.43:965][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.19-14.51.44:011][  0]LogAssetRegistry: Asset discovery search completed in 8.8509 seconds
+[2022.03.19-14.51.44:020][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.03.19-14.51.44:044][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.19-14.51.44:209][  2]LogSlate: Took 0.000573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.19-14.51.58:058][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.03.19-14.51.58:134][533]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_Main/Component/BPI_Inventory.BPI_Inventory_C:I_InventoryAction:item'. Unknown structure.
+[2022.03.19-14.51.58:209][533]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_Main/Widget/WBP_SingleItem.WBP_SingleItem_C:InventoryItem'. Unknown structure.
+[2022.03.19-14.51.58:210][533]LogClass: Warning: Property InventoryItem of InventoryItem has a struct type mismatch (tag STRUCT_REINST_ST_inventory_13 != prop FallbackStruct) in package:  /Game/_Main/Widget/WBP_SingleItem. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.03.19-14.51.58:218][533]LogBlueprint: Error: [AssetLog] C:\Users\mario\Documents\Unreal Projects\RpgInventory\Content\_Main\Widget\WBP_MainInventory.uasset: [Compiler] Invalid pin connection from  Array Element  and  Inventory Item : Only exactly matching structures are considered compatible. (You may have changed the type after the connections were made)
+[2022.03.19-14.51.58:224][533]LogClass: Warning: Property InventoryItem of InventoryItem has a struct type mismatch (tag FallbackStruct != prop ST_inventory) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.03.19-14.51.58:557][533]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_Main/Level/DemoInventory.DemoInventory
+[2022.03.19-14.51.58:558][533]Cmd: MAP LOAD FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Level/DemoInventory.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.19-14.51.58:558][533]LightingResults: New page: Lighting Build
+[2022.03.19-14.51.58:558][533]LoadErrors: New page: Loading map: DemoInventory.umap
+[2022.03.19-14.51.58:560][533]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-14.51.58:560][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-14.51.58:560][533]MapCheck: New page: Map Check
+[2022.03.19-14.51.58:560][533]LightingResults: New page: Lighting Build
+[2022.03.19-14.51.58:568][533]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.19-14.51.58:572][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.19-14.51.58:584][533]LogWorld: UWorld::CleanupWorld for DemoInventory, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-14.51.58:584][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-14.51.58:595][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.03.19-14.51.58:605][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.19-14.51.58:611][533]LogAudio: Display: Audio Device (ID: 1) registered with world 'DemoInventory'.
+[2022.03.19-14.51.58:611][533]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.19-14.51.58:611][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-14.51.58:612][533]LogAIModule: Creating AISystem for world DemoInventory
+[2022.03.19-14.51.58:638][533]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.19-14.51.58:647][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.19-14.51.58:651][533]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.19-14.51.58:652][533]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2022.03.19-14.51.58:652][533]LogFileHelpers: Loading map 'DemoInventory' took 0.094
+[2022.03.19-14.52.00:115][614]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.03.19-14.52.00:120][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.19-14.52.00:120][614]BlueprintLog: Warning: Blueprint failed to compile:  WBP_MainInventory
+[2022.03.19-14.52.00:121][614]LogCustomDialog: Dialog displayed:
+[2022.03.19-14.52.02:770][614]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Widget/WBP_MainInventory.WBP_MainInventory
+[2022.03.19-14.52.02:770][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-14.52.02:783][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-14.52.02:793][614]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.03.19-14.52.03:868][614]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.03.19-14.52.03:868][614]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.03.19-14.52.03:887][614]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.03.19-14.52.04:066][614]LogSlate: Took 0.000673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.19-14.52.04:086][614]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.03.19-14.52.06:752][715]BlueprintLog: New page: Compile WBP_MainInventory
+[2022.03.19-14.52.06:756][715]LogBlueprint: Error: [AssetLog] C:\Users\mario\Documents\Unreal Projects\RpgInventory\Content\_Main\Widget\WBP_MainInventory.uasset: [Compiler] Invalid pin connection from  Array Element  and  Inventory Item : Only exactly matching structures are considered compatible. (You may have changed the type after the connections were made)
+[2022.03.19-14.52.06:826][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.03.19-14.52.07:342][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widget/WBP_MainInventory" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Widget/WBP_MainInventory.uasset" SILENT=true
+[2022.03.19-14.52.07:350][736]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008098 seconds
+[2022.03.19-14.52.07:362][736]LogSavePackage: Moving output files for package: /Game/_Main/Widget/WBP_MainInventory
+[2022.03.19-14.52.07:362][736]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/WBP_MainInventory162D436E4DF5BE5E3E3DFAB045B17D25.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Widget/WBP_MainInventory.uasset'
+[2022.03.19-14.52.07:375][736]AssetCheck: New page: Asset Save: WBP_MainInventory
+[2022.03.19-14.52.07:375][736]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widget/WBP_MainInventory.WBP_MainInventory
+[2022.03.19-14.52.10:436][911]BlueprintLog: New page: Compile WBP_MainInventory
+[2022.03.19-14.52.10:501][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.03.19-14.52.11:065][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widget/WBP_MainInventory" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Widget/WBP_MainInventory.uasset" SILENT=true
+[2022.03.19-14.52.11:077][937]LogSavePackage: Moving output files for package: /Game/_Main/Widget/WBP_MainInventory
+[2022.03.19-14.52.11:078][937]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/WBP_MainInventory4BA19BEC4C8A8308789D0B9986901BBA.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Widget/WBP_MainInventory.uasset'
+[2022.03.19-14.52.11:091][937]AssetCheck: New page: Asset Save: WBP_MainInventory
+[2022.03.19-14.52.11:091][937]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widget/WBP_MainInventory.WBP_MainInventory
+[2022.03.19-14.52.12:071][994]LogSlate: Window 'WBP_MainInventory' being destroyed
+[2022.03.19-14.52.12:077][994]LogSlate: Window 'WBP_MainInventory' being destroyed
+[2022.03.19-14.52.12:081][994]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-14.52.12:081][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-14.52.12:090][994]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-14.52.12:090][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-14.52.13:668][ 86]LogSlate: Window 'Message Log' being destroyed
+[2022.03.19-14.52.13:673][ 86]LogSlate: Window 'Message Log' being destroyed
+[2022.03.19-14.52.15:131][173]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.03.19-14.52.15:136][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.19-14.52.15:136][173]PIE: New page: PIE session: DemoInventory (19 Mar 2022, 14:52:15)
+[2022.03.19-14.52.15:139][173]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.03.19-14.52.15:139][173]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.19-14.52.15:139][173]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_DemoInventory
+[2022.03.19-14.52.15:143][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003816s)
+[2022.03.19-14.52.15:143][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/DemoInventory.DemoInventory to /Game/_Main/Level/UEDPIE_0_DemoInventory.DemoInventory (0.003870s)
+[2022.03.19-14.52.15:143][173]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.19-14.52.15:143][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-14.52.15:143][173]LogAIModule: Creating AISystem for world DemoInventory
+[2022.03.19-14.52.15:144][173]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2022.03.19-14.52.15:200][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.03.19-14.52.15:205][173]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.19-14.52.15:205][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-14.52.15:205][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-14.52.15:205][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-14.52.15:205][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-14.52.15:205][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-14.52.15:205][173]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.19-14.52.15:205][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-14.52.15:205][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-14.52.15:205][173]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-14.52.15:205][173]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-14.52.15:205][173]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-14.52.15:208][173]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.03.19-14.52.15:224][173]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KORP THALLIUM)
+[2022.03.19-14.52.15:224][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-14.52.15:224][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-14.52.15:224][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-14.52.15:225][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.03.19-14.52.15:225][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.03.19-14.52.15:227][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.03.19-14.52.15:227][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.03.19-14.52.15:227][173]LogInit: FAudioDevice initialized.
+[2022.03.19-14.52.15:227][173]LogAudio: Display: Audio Device (ID: 2) registered with world 'DemoInventory'.
+[2022.03.19-14.52.15:275][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-14.52.15:275][173]LogLoad: Game class is 'GM_Inventory_C'
+[2022.03.19-14.52.15:277][173]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_DemoInventory.DemoInventory up for play (max tick rate 60) at 2022.03.19-14.52.15
+[2022.03.19-14.52.15:277][173]LogWorld: Bringing up level for play took: 0.002198
+[2022.03.19-14.52.15:279][173]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.03.19-14.52.15:300][173]PIE: Server logged in
+[2022.03.19-14.52.15:302][173]PIE: Play in editor total start time 0.166 seconds.
+[2022.03.19-14.52.21:136][494]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.19-14.52.21:136][494]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.03.19-14.52.21:136][494]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.03.19-14.52.37:121][453]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.03.19-14.52.37:121][453]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.03.19-14.52.57:007][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-14.52.57:007][644]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_DemoInventory
+[2022.03.19-14.52.57:008][644]LogSlate: Window 'RpgInventory Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.03.19-14.52.57:013][644]LogWorld: UWorld::CleanupWorld for DemoInventory, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-14.52.57:013][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-14.52.57:027][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-14.52.57:055][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-14.52.57:085][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.19-14.52.57:111][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.03.19-14.52.57:113][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.03.19-14.52.57:170][644]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2022.03.19-14.52.57:224][645]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.03.19-14.53.01:693][905]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Player/BP_PlayerInventory.BP_PlayerInventory
+[2022.03.19-14.53.01:693][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-14.53.05:265][ 43]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.03.19-14.53.20:270][860]BlueprintLog: New page: Compile BP_PlayerInventory
+[2022.03.19-14.53.20:366][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.03.19-14.53.21:136][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Player/BP_PlayerInventory" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Player/BP_PlayerInventory.uasset" SILENT=true
+[2022.03.19-14.53.21:164][897]LogSavePackage: Moving output files for package: /Game/_Main/Player/BP_PlayerInventory
+[2022.03.19-14.53.21:165][897]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_PlayerInventory604E37264A18D47787EB4584D4ACB1E2.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Player/BP_PlayerInventory.uasset'
+[2022.03.19-14.53.21:178][897]AssetCheck: New page: Asset Save: BP_PlayerInventory
+[2022.03.19-14.53.21:178][897]LogContentValidation: Display: Validating Blueprint /Game/_Main/Player/BP_PlayerInventory.BP_PlayerInventory
+[2022.03.19-14.53.41:744][134]LogDerivedDataCache: C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.752 and deleted 0 file(s) with total size 0 MiB.
+[2022.03.19-14.59.25:231][780]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.03.19-14.59.25:236][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.19-14.59.25:237][780]PIE: New page: PIE session: DemoInventory (19 Mar 2022, 14:59:25)
+[2022.03.19-14.59.25:237][780]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_DemoInventory
+[2022.03.19-14.59.25:241][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004289s)
+[2022.03.19-14.59.25:241][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/DemoInventory.DemoInventory to /Game/_Main/Level/UEDPIE_0_DemoInventory.DemoInventory (0.004374s)
+[2022.03.19-14.59.25:241][780]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.19-14.59.25:241][780]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-14.59.25:242][780]LogAIModule: Creating AISystem for world DemoInventory
+[2022.03.19-14.59.25:242][780]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2022.03.19-14.59.25:284][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.03.19-14.59.25:288][780]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.19-14.59.25:288][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-14.59.25:288][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-14.59.25:288][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-14.59.25:288][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-14.59.25:288][780]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-14.59.25:288][780]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.19-14.59.25:288][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-14.59.25:288][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-14.59.25:288][780]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-14.59.25:288][780]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-14.59.25:288][780]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-14.59.25:291][780]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.03.19-14.59.25:308][780]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KORP THALLIUM)
+[2022.03.19-14.59.25:308][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-14.59.25:308][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-14.59.25:308][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-14.59.25:309][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.03.19-14.59.25:309][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.03.19-14.59.25:310][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.03.19-14.59.25:310][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.03.19-14.59.25:310][780]LogInit: FAudioDevice initialized.
+[2022.03.19-14.59.25:310][780]LogAudio: Display: Audio Device (ID: 3) registered with world 'DemoInventory'.
+[2022.03.19-14.59.25:364][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-14.59.25:365][780]LogLoad: Game class is 'GM_Inventory_C'
+[2022.03.19-14.59.25:367][780]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_DemoInventory.DemoInventory up for play (max tick rate 60) at 2022.03.19-14.59.25
+[2022.03.19-14.59.25:367][780]LogWorld: Bringing up level for play took: 0.002529
+[2022.03.19-14.59.25:370][780]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.03.19-14.59.25:377][780]PIE: Server logged in
+[2022.03.19-14.59.25:379][780]PIE: Play in editor total start time 0.142 seconds.
+[2022.03.19-14.59.36:625][432]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.19-14.59.36:625][432]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.03.19-14.59.36:625][432]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.03.19-14.59.43:609][851]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.03.19-14.59.43:609][851]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.03.19-14.59.46:134][  1]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.19-14.59.46:134][  1]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.03.19-14.59.53:147][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-14.59.53:147][420]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_DemoInventory
+[2022.03.19-14.59.53:147][420]LogSlate: Window 'RpgInventory Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.03.19-14.59.53:154][420]LogWorld: UWorld::CleanupWorld for DemoInventory, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-14.59.53:155][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-14.59.53:167][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-14.59.53:195][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-14.59.53:232][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.03.19-14.59.53:234][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.03.19-14.59.53:242][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.03.19-14.59.53:280][421]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.19-15.00.20:115][ 23]LogContentBrowser: Attempting asset rename: ItemHair -> Items
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.BP_Hair01_C' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.BP_Hair01:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.BP_Hair01:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.BP_Hair01:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.BP_Hair01:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.BP_Hair01:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.BP_Hair01:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.BP_Hair01:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.SKEL_BP_Hair01_C:ReceiveBeginPlay' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.SKEL_BP_Hair01_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.SKEL_BP_Hair01_C:ReceiveTick' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.SKEL_BP_Hair01_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:146][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair1/BP_Hair01.SKEL_BP_Hair01_C' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.BP_Hair2_C' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.BP_Hair2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.BP_Hair2:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.BP_Hair2:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.BP_Hair2:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.BP_Hair2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.BP_Hair2:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.BP_Hair2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.SKEL_BP_Hair2_C:ReceiveBeginPlay' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.SKEL_BP_Hair2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.SKEL_BP_Hair2_C:ReceiveTick' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.SKEL_BP_Hair2_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:148][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Hair2/BP_Hair2.SKEL_BP_Hair2_C' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.PackageMetaData'
+[2022.03.19-15.00.20:149][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Legs01/BP_Legs1.BP_Legs1_C' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.PackageMetaData'
+[2022.03.19-15.00.20:149][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Legs01/BP_Legs1.SKEL_BP_Legs1_C:ReceiveBeginPlay' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.PackageMetaData'
+[2022.03.19-15.00.20:149][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Legs01/BP_Legs1.SKEL_BP_Legs1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.PackageMetaData'
+[2022.03.19-15.00.20:149][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Legs01/BP_Legs1.SKEL_BP_Legs1_C:ReceiveTick' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.PackageMetaData'
+[2022.03.19-15.00.20:149][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Legs01/BP_Legs1.SKEL_BP_Legs1_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.PackageMetaData'
+[2022.03.19-15.00.20:149][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Legs01/BP_Legs1.SKEL_BP_Legs1_C' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.PackageMetaData'
+[2022.03.19-15.00.20:151][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Torso01/BP_Torso01.BP_Torso01_C' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.PackageMetaData'
+[2022.03.19-15.00.20:151][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Torso01/BP_Torso01.SKEL_BP_Torso01_C:ReceiveBeginPlay' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.PackageMetaData'
+[2022.03.19-15.00.20:151][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Torso01/BP_Torso01.SKEL_BP_Torso01_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.PackageMetaData'
+[2022.03.19-15.00.20:151][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Torso01/BP_Torso01.SKEL_BP_Torso01_C:ReceiveTick' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.PackageMetaData'
+[2022.03.19-15.00.20:151][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Torso01/BP_Torso01.SKEL_BP_Torso01_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.PackageMetaData'
+[2022.03.19-15.00.20:151][ 23]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Torso01/BP_Torso01.SKEL_BP_Torso01_C' ref from Metadata '/Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.PackageMetaData'
+[2022.03.19-15.00.20:221][ 23]LogSavePackage: Moving output files for package: /Game/_Main/St/InventoryItems/DT_InventoryItemList
+[2022.03.19-15.00.20:222][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_InventoryItemListEB41E6E849C38996C00B1FB8F89FD68F.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/InventoryItems/DT_InventoryItemList.uasset'
+[2022.03.19-15.00.20:227][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Widget/WBP_SingleItem" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Widget/WBP_SingleItem.uasset" SILENT=true
+[2022.03.19-15.00.20:242][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Widget/WBP_SingleItem
+[2022.03.19-15.00.20:243][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/WBP_SingleItem44286F7442FDFEDD6668099CAF136940.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Widget/WBP_SingleItem.uasset'
+[2022.03.19-15.00.20:247][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair1/BP_Hair01
+[2022.03.19-15.00.20:247][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Hair011687D5CD47D359624DB89D9DA08141A0.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair1/BP_Hair01.uasset'
+[2022.03.19-15.00.20:249][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01
+[2022.03.19-15.00.20:249][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Hair014F5A3F3A45755D04BA15B7951472EEC9.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.uasset'
+[2022.03.19-15.00.20:254][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair2/BP_Hair2
+[2022.03.19-15.00.20:254][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Hair2E8BA8B294F3A0AEFB79554BB7E9934B4.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair2/BP_Hair2.uasset'
+[2022.03.19-15.00.20:256][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2
+[2022.03.19-15.00.20:257][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Hair2E559C718480D8F797AA5C5A3727FE29C.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.uasset'
+[2022.03.19-15.00.20:262][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Legs01/BP_Legs1
+[2022.03.19-15.00.20:262][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Legs1BA570DC241648CAD7AC0EEB7DD804754.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Legs01/BP_Legs1.uasset'
+[2022.03.19-15.00.20:264][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1
+[2022.03.19-15.00.20:265][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Legs11B7F28D64C0D76CF8A69A4BE27E9C181.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.uasset'
+[2022.03.19-15.00.20:269][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Torso01/BP_Torso01
+[2022.03.19-15.00.20:269][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Torso018017E74749196C9E93818596FC4E6B60.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Torso01/BP_Torso01.uasset'
+[2022.03.19-15.00.20:272][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01
+[2022.03.19-15.00.20:272][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Torso01289091414BA3761CF68CC9B07B81B78B.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.uasset'
+[2022.03.19-15.00.20:279][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair1/Icon1
+[2022.03.19-15.00.20:279][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/Icon17E6CFFE24FEE3D1C856847A12ED91F6D.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair1/Icon1.uasset'
+[2022.03.19-15.00.20:285][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair2/Icon2
+[2022.03.19-15.00.20:285][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/Icon2CC727E8C46CC7C848648598A295D8D0B.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair2/Icon2.uasset'
+[2022.03.19-15.00.20:287][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Legs01/legs01
+[2022.03.19-15.00.20:287][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/legs01CDCC735948BBABBFB4B4F398EEAE8AB1.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Legs01/legs01.uasset'
+[2022.03.19-15.00.20:289][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Torso01/Torso1
+[2022.03.19-15.00.20:289][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/Torso181C159B44A30F2C49C8029A9BB969A13.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Torso01/Torso1.uasset'
+[2022.03.19-15.00.20:290][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair2/BP_Legs
+[2022.03.19-15.00.20:290][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Legs0C7F26724B51ED80A8D75FAB0D579A7E.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair2/BP_Legs.uasset'
+[2022.03.19-15.00.20:291][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair2/BP_Legs_C
+[2022.03.19-15.00.20:291][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Legs_C296A81E54F6DE7F1ECF83785519FD994.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair2/BP_Legs_C.uasset'
+[2022.03.19-15.00.20:293][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair2/Default__BP_Legs_C
+[2022.03.19-15.00.20:293][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/Default__BP_Legs_C613B841348DEFCB4543A99BF443C05E3.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair2/Default__BP_Legs_C.uasset'
+[2022.03.19-15.00.20:294][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair2/BP_Hair02
+[2022.03.19-15.00.20:294][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Hair0293C9E7DE44963EF2E3C7C1A4E6D29AD0.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair2/BP_Hair02.uasset'
+[2022.03.19-15.00.20:295][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair2/BP_Hair02_C
+[2022.03.19-15.00.20:295][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Hair02_C9368F64A423592A428AF158437D34349.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair2/BP_Hair02_C.uasset'
+[2022.03.19-15.00.20:297][ 23]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Hair2/Default__BP_Hair02_C
+[2022.03.19-15.00.20:297][ 23]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/Default__BP_Hair02_C718E5C034F078612486BD5846B1933E6.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Hair2/Default__BP_Hair02_C.uasset'
+[2022.03.19-15.00.20:416][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.03.19-15.00.20:449][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.03.19-15.00.20:482][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.19-15.00.20:497][ 23]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Hair1/BP_Hair01.BP_Hair01
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Hair2/BP_Hair2.BP_Hair2
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Legs01/BP_Legs1.BP_Legs1
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Torso01/BP_Torso01.BP_Torso01
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating Texture2D /Game/_Main/Bluprints/Items/Hair1/Icon1.Icon1
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating Texture2D /Game/_Main/Bluprints/Items/Hair2/Icon2.Icon2
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating Texture2D /Game/_Main/Bluprints/Items/Legs01/legs01.legs01
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating Texture2D /Game/_Main/Bluprints/Items/Torso01/Torso1.Torso1
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating DataTable /Game/_Main/St/InventoryItems/DT_InventoryItemList.DT_InventoryItemList
+[2022.03.19-15.00.20:497][ 23]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/Widget/WBP_SingleItem.WBP_SingleItem
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.BP_Torso01
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.Default__BP_Torso01_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Torso01/BP_Torso01.BP_Torso01_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.BP_Legs1
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.Default__BP_Legs1_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Legs01/BP_Legs1.BP_Legs1_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.BP_Hair2
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.Default__BP_Hair2_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Hair2/BP_Hair2.BP_Hair2_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.BP_Hair01
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.Default__BP_Hair01_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/ItemHair/Hair1/BP_Hair01.BP_Hair01_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/Items/Hair2/Default__BP_Hair02_C.Default__BP_Hair02_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/Items/Hair2/BP_Hair02_C.BP_Hair02_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/Items/Hair2/BP_Hair02.BP_Hair02
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/Items/Hair2/Default__BP_Legs_C.Default__BP_Legs_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/Items/Hair2/BP_Legs_C.BP_Legs_C
+[2022.03.19-15.00.20:498][ 23]LogContentValidation: Display: Validating ObjectRedirector /Game/_Main/Bluprints/Items/Hair2/BP_Legs.BP_Legs
+[2022.03.19-15.00.23:815][208]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.19-15.00.23:866][208]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.19-15.00.23:879][209]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.03.19-15.00.26:155][346]LogContentBrowser: Attempting asset rename: NewFolder -> Sword
+[2022.03.19-15.00.26:155][346]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.19-15.02.35:887][189]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.03.19-15.02.35:892][189]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.19-15.02.35:893][189]LogPlayLevel: [PlayLevel] Compiling WBP_SingleItem before play...
+[2022.03.19-15.02.35:941][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.03.19-15.02.35:942][189]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2022.03.19-15.02.35:942][189]PIE: New page: PIE session: DemoInventory (19 Mar 2022, 15:02:35)
+[2022.03.19-15.02.35:942][189]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_DemoInventory
+[2022.03.19-15.02.35:946][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003552s)
+[2022.03.19-15.02.35:946][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/DemoInventory.DemoInventory to /Game/_Main/Level/UEDPIE_0_DemoInventory.DemoInventory (0.003597s)
+[2022.03.19-15.02.35:946][189]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.19-15.02.35:946][189]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.02.35:946][189]LogAIModule: Creating AISystem for world DemoInventory
+[2022.03.19-15.02.35:947][189]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2022.03.19-15.02.35:978][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.03.19-15.02.35:978][189]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.19-15.02.35:978][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-15.02.35:978][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-15.02.35:978][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-15.02.35:978][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-15.02.35:978][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-15.02.35:978][189]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.19-15.02.35:978][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-15.02.35:978][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-15.02.35:979][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-15.02.35:979][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-15.02.35:979][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-15.02.35:981][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.03.19-15.02.35:997][189]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KORP THALLIUM)
+[2022.03.19-15.02.35:997][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-15.02.35:997][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-15.02.35:997][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-15.02.35:999][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.03.19-15.02.35:999][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.03.19-15.02.36:000][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.03.19-15.02.36:000][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.03.19-15.02.36:000][189]LogInit: FAudioDevice initialized.
+[2022.03.19-15.02.36:000][189]LogAudio: Display: Audio Device (ID: 4) registered with world 'DemoInventory'.
+[2022.03.19-15.02.36:039][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-15.02.36:039][189]LogLoad: Game class is 'GM_Inventory_C'
+[2022.03.19-15.02.36:041][189]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_DemoInventory.DemoInventory up for play (max tick rate 60) at 2022.03.19-15.02.36
+[2022.03.19-15.02.36:041][189]LogWorld: Bringing up level for play took: 0.001958
+[2022.03.19-15.02.36:043][189]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.03.19-15.02.36:048][189]PIE: Server logged in
+[2022.03.19-15.02.36:050][189]PIE: Play in editor total start time 0.159 seconds.
+[2022.03.19-15.02.37:327][257]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.19-15.02.37:327][257]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.03.19-15.02.37:327][257]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.03.19-15.02.38:060][301]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.03.19-15.02.38:060][301]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.03.19-15.02.40:587][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-15.02.40:587][451]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_DemoInventory
+[2022.03.19-15.02.40:588][451]LogSlate: Window 'RpgInventory Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.03.19-15.02.40:593][451]LogWorld: UWorld::CleanupWorld for DemoInventory, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.02.40:594][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.02.40:610][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-15.02.40:631][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.02.40:667][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.03.19-15.02.40:669][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.03.19-15.02.40:677][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.03.19-15.02.40:720][452]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.19-15.03.12:963][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.03.19-15.03.12:977][696]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Level/DemoInventory_Auto1
+[2022.03.19-15.03.12:977][696]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DemoInventory_Auto1638E9A514AFEFF2F9A4F68A576FBE024.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/Autosaves/Game/_Main/Level/DemoInventory_Auto1.umap'
+[2022.03.19-15.03.12:981][696]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/Level/DemoInventory' took 0.048
+[2022.03.19-15.03.12:981][696]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2022.03.19-15.03.41:406][482]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.03.19-15.03.41:411][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.19-15.03.41:411][482]PIE: New page: PIE session: DemoInventory (19 Mar 2022, 15:03:41)
+[2022.03.19-15.03.41:411][482]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_DemoInventory
+[2022.03.19-15.03.41:416][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004322s)
+[2022.03.19-15.03.41:416][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/DemoInventory.DemoInventory to /Game/_Main/Level/UEDPIE_0_DemoInventory.DemoInventory (0.004384s)
+[2022.03.19-15.03.41:416][482]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.03.19-15.03.41:416][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.03.41:416][482]LogAIModule: Creating AISystem for world DemoInventory
+[2022.03.19-15.03.41:416][482]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2022.03.19-15.03.41:453][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.03.19-15.03.41:454][482]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.19-15.03.41:454][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.19-15.03.41:454][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.19-15.03.41:454][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.19-15.03.41:454][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.19-15.03.41:454][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.19-15.03.41:454][482]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.19-15.03.41:454][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.19-15.03.41:454][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.19-15.03.41:455][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.19-15.03.41:455][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.19-15.03.41:455][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.19-15.03.41:457][482]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.03.19-15.03.41:476][482]LogAudioMixer: Display: Using Audio Hardware Device Speakers (KORP THALLIUM)
+[2022.03.19-15.03.41:476][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.19-15.03.41:476][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.19-15.03.41:476][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.19-15.03.41:477][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.03.19-15.03.41:477][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.03.19-15.03.41:479][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.03.19-15.03.41:479][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.03.19-15.03.41:479][482]LogInit: FAudioDevice initialized.
+[2022.03.19-15.03.41:479][482]LogAudio: Display: Audio Device (ID: 5) registered with world 'DemoInventory'.
+[2022.03.19-15.03.41:525][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-15.03.41:525][482]LogLoad: Game class is 'GM_Inventory_C'
+[2022.03.19-15.03.41:527][482]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_DemoInventory.DemoInventory up for play (max tick rate 60) at 2022.03.19-15.03.41
+[2022.03.19-15.03.41:528][482]LogWorld: Bringing up level for play took: 0.002424
+[2022.03.19-15.03.41:530][482]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.03.19-15.03.41:536][482]PIE: Server logged in
+[2022.03.19-15.03.41:538][482]PIE: Play in editor total start time 0.127 seconds.
+[2022.03.19-15.03.46:801][784]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.19-15.03.46:801][784]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.03.19-15.03.46:801][784]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.03.19-15.03.52:300][112]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.03.19-15.03.52:300][112]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.03.19-15.04.00:017][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.19-15.04.00:017][565]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_DemoInventory
+[2022.03.19-15.04.00:017][565]LogSlate: Window 'RpgInventory Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.03.19-15.04.00:024][565]LogWorld: UWorld::CleanupWorld for DemoInventory, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.04.00:024][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.04.00:040][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.19-15.04.00:059][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.04.00:102][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.03.19-15.04.00:105][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.03.19-15.04.00:115][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.03.19-15.04.00:164][566]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.19-15.04.47:123][725]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.19-15.04.52:081][725]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.19-15.04.52:089][725]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.19-15.04.52:094][725]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.19-15.04.52:126][727]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.03.19-15.04.57:308][ 30]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_BaseWeapon
+[2022.03.19-15.04.57:316][ 30]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.19-15.04.59:273][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.03.19-15.05.00:700][145]LogSlate: Window 'Save Content' being destroyed
+[2022.03.19-15.05.00:778][145]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon
+[2022.03.19-15.05.00:778][145]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_BaseWeapon81D9D0E94B8AA4BDF85DCA8491242F64.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Sword/BP_BaseWeapon.uasset'
+[2022.03.19-15.05.00:817][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.19-15.05.00:834][145]LogSavePackage: Moving output files for package: /Game/_Main/Level/DemoInventory
+[2022.03.19-15.05.00:835][145]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DemoInventoryBC8617514D38E702532411B8DF7A3828.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Level/DemoInventory.umap'
+[2022.03.19-15.05.00:842][145]LogFileHelpers: Saving map 'DemoInventory' took 0.063
+[2022.03.19-15.05.00:857][145]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.19-15.05.00:857][145]LogContentValidation: Display: Validating World /Game/_Main/Level/DemoInventory.DemoInventory
+[2022.03.19-15.05.00:857][145]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.BP_BaseWeapon
+[2022.03.19-15.05.01:780][201]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.BP_BaseWeapon
+[2022.03.19-15.05.01:780][201]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.05.10:783][621]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2022.03.19-15.05.19:954][ 38]BlueprintLog: New page: Compile BP_BaseWeapon
+[2022.03.19-15.05.20:017][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.03.19-15.05.20:373][ 50]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon
+[2022.03.19-15.05.20:373][ 50]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_BaseWeapon8443860A4249F7DA411EC6B9EA79AAAC.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Sword/BP_BaseWeapon.uasset'
+[2022.03.19-15.05.20:392][ 50]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.03.19-15.05.20:392][ 50]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.BP_BaseWeapon
+[2022.03.19-15.05.21:499][ 99]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.19-15.05.35:250][777]BlueprintLog: New page: Compile BP_BaseWeapon
+[2022.03.19-15.05.35:356][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.03.19-15.05.35:985][799]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon
+[2022.03.19-15.05.35:986][799]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_BaseWeapon6A9DA6914EAFE7663E6C62B50DD6E5D5.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Sword/BP_BaseWeapon.uasset'
+[2022.03.19-15.05.36:002][799]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.03.19-15.05.36:002][799]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.BP_BaseWeapon
+[2022.03.19-15.05.59:987][169]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/_Main/St/Equipment/ST_Equipment.ST_Equipment
+[2022.03.19-15.06.11:500][819]LogSlate: Took 0.004325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.19-15.06.22:615][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/ST_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/ST_Equipment.uasset" SILENT=true
+[2022.03.19-15.06.22:618][426]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/ST_Equipment
+[2022.03.19-15.06.22:619][426]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/ST_Equipment471D88BB4DD70657561BCB95E944C833.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/ST_Equipment.uasset'
+[2022.03.19-15.06.22:657][426]AssetCheck: New page: Asset Save: ST_Equipment
+[2022.03.19-15.06.22:657][426]LogContentValidation: Display: Validating UserDefinedStruct /Game/_Main/St/Equipment/ST_Equipment.ST_Equipment
+[2022.03.19-15.06.29:263][751]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/mario/Documents/Unreal Projects/RpgInventory/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.03.19-15.06.29:263][751]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/mario/Documents/Unreal Projects/RpgInventory/Content/Developers/mario/Collections/' because it could not be accessed. Aborting watch request...
+[2022.03.19-15.06.29:370][755]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/mario/Documents/Unreal Projects/RpgInventory/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.03.19-15.06.43:649][476]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.03.19-15.06.45:417][551]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/SCK_Casual01/Models/MESH_H_A1.MESH_H_A1
+[2022.03.19-15.06.45:441][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.06.45:489][551]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.03.19-15.06.45:505][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.19-15.06.47:878][609]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.03.19-15.06.47:981][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.06.48:008][609]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_Mannequin) ...
+[2022.03.19-15.06.48:024][609]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.19-15.09.15:884][496]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2022.03.19-15.09.15:885][496]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/UE4_Mannequin_Skeleton82698487472178D7AB5C3190D998C3E6.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.03.19-15.09.15:911][496]AssetCheck: New page: Asset Save: UE4_Mannequin_Skeleton
+[2022.03.19-15.09.15:911][496]LogContentValidation: Display: Validating Skeleton /Game/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.03.19-15.09.41:104][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.03.19-15.09.41:845][689]LogSlate: Window 'Save Content' being destroyed
+[2022.03.19-15.09.41:935][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Component/BPC_Inventory" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Component/BPC_Inventory.uasset" SILENT=true
+[2022.03.19-15.09.41:993][689]LogSavePackage: Moving output files for package: /Game/_Main/Component/BPC_Inventory
+[2022.03.19-15.09.41:994][689]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BPC_Inventory49DCB08B47E375ED9601719C56B0D8F1.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Component/BPC_Inventory.uasset'
+[2022.03.19-15.09.41:996][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/DT_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset" SILENT=true
+[2022.03.19-15.09.41:997][689]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/DT_Equipment
+[2022.03.19-15.09.41:998][689]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_EquipmentC1B6C2A64F4214A504A1BF872E3D4178.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset'
+[2022.03.19-15.09.42:036][689]LogSavePackage: Moving output files for package: /Game/_Main/GameMode/PC_InventoryController
+[2022.03.19-15.09.42:036][689]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/PC_InventoryController7900471C4431CC27711BA9BA4A38A590.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/GameMode/PC_InventoryController.uasset'
+[2022.03.19-15.09.42:517][689]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Mannequin/Character/Mesh/SK_Mannequin
+[2022.03.19-15.09.42:517][689]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/SK_Mannequin6A6F4FAF4D221B1DF0C1D2BFEAEBE049.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/SCK_Casual01/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2022.03.19-15.09.42:539][689]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.19-15.09.42:539][689]LogContentValidation: Display: Validating DataTable /Game/_Main/St/Equipment/DT_Equipment.DT_Equipment
+[2022.03.19-15.09.42:539][689]LogContentValidation: Display: Validating Blueprint /Game/_Main/Component/BPC_Inventory.BPC_Inventory
+[2022.03.19-15.09.42:539][689]LogContentValidation: Display: Validating Blueprint /Game/_Main/GameMode/PC_InventoryController.PC_InventoryController
+[2022.03.19-15.09.42:539][689]LogContentValidation: Display: Validating SkeletalMesh /Game/SCK_Casual01/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.03.19-15.09.44:805][815]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Bluprints/Items/Torso01/BP_Torso01.BP_Torso01
+[2022.03.19-15.09.44:806][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.09.46:424][878]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.09.46:424][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.09.52:300][198]LogContentBrowser: Deferred new asset file creation: BP_Torso02
+[2022.03.19-15.09.52:305][198]LogContentBrowser: Creating deferred item: BP_Torso02
+[2022.03.19-15.09.52:324][199]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Torso02).
+[2022.03.19-15.09.52:967][238]LogContentBrowser: Attempting asset rename: BP_Torso02 -> BP_Torso02
+[2022.03.19-15.09.53:063][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.03.19-15.09.53:083][238]LogContentBrowser: End creating deferred item BP_Torso02
+[2022.03.19-15.09.55:639][383]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.SKEL_BP_Torso02_C' ref from Metadata '/Game/_Main/Bluprints/Items/Torso01/BP_Torso02.PackageMetaData'
+[2022.03.19-15.09.55:639][383]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.BP_Torso02_C' ref from Metadata '/Game/_Main/Bluprints/Items/Torso01/BP_Torso02.PackageMetaData'
+[2022.03.19-15.09.55:639][383]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.SKEL_BP_Torso02_C:ReceiveBeginPlay' ref from Metadata '/Game/_Main/Bluprints/Items/Torso01/BP_Torso02.PackageMetaData'
+[2022.03.19-15.09.55:639][383]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.SKEL_BP_Torso02_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Main/Bluprints/Items/Torso01/BP_Torso02.PackageMetaData'
+[2022.03.19-15.09.55:639][383]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.SKEL_BP_Torso02_C:ReceiveTick' ref from Metadata '/Game/_Main/Bluprints/Items/Torso01/BP_Torso02.PackageMetaData'
+[2022.03.19-15.09.55:639][383]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.SKEL_BP_Torso02_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/Items/Torso01/BP_Torso02.PackageMetaData'
+[2022.03.19-15.09.55:748][383]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Sword/BP_Torso02
+[2022.03.19-15.09.55:748][383]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Torso025A3551BA4DF3E6FAF062569062E1198D.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Sword/BP_Torso02.uasset'
+[2022.03.19-15.09.55:833][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.03.19-15.09.55:891][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.03.19-15.09.55:940][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.19-15.09.55:978][383]AssetCheck: New page: Asset Save: BP_Torso02
+[2022.03.19-15.09.55:978][383]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Sword/BP_Torso02.BP_Torso02
+[2022.03.19-15.10.01:982][730]LogContentBrowser: Attempting asset rename: BP_Torso02 -> BP_Sword
+[2022.03.19-15.10.02:005][730]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Sword.BP_Sword_C' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.PackageMetaData'
+[2022.03.19-15.10.02:005][730]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Sword.SKEL_BP_Sword_C' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.PackageMetaData'
+[2022.03.19-15.10.02:005][730]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Sword.SKEL_BP_Sword_C:ReceiveBeginPlay' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.PackageMetaData'
+[2022.03.19-15.10.02:005][730]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Sword.SKEL_BP_Sword_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.PackageMetaData'
+[2022.03.19-15.10.02:005][730]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Sword.SKEL_BP_Sword_C:ReceiveTick' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.PackageMetaData'
+[2022.03.19-15.10.02:005][730]LogMetaData: Removing '/Game/_Main/Bluprints/Items/Sword/BP_Sword.SKEL_BP_Sword_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Torso02.PackageMetaData'
+[2022.03.19-15.10.02:078][730]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Sword/BP_Sword
+[2022.03.19-15.10.02:078][730]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Sword09C450DB4BBD4469E7C871B38ABF1E2F.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Sword/BP_Sword.uasset'
+[2022.03.19-15.10.02:165][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.03.19-15.10.02:230][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.03.19-15.10.02:288][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.03.19-15.10.02:297][730]AssetCheck: New page: Asset Save: BP_Sword
+[2022.03.19-15.10.02:297][730]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Sword/BP_Sword.BP_Sword
+[2022.03.19-15.10.04:200][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Bluprints/Items/Sword/BP_Sword.BP_Sword
+[2022.03.19-15.10.04:201][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.10.09:630][125]BlueprintLog: New page: Compile BP_Sword
+[2022.03.19-15.10.09:715][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.19-15.10.10:178][145]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Sword/BP_Sword
+[2022.03.19-15.10.10:179][145]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Sword9D7C23134E4BF95983543A9B6C8FBDC9.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Sword/BP_Sword.uasset'
+[2022.03.19-15.10.10:199][145]AssetCheck: New page: Asset Save: BP_Sword
+[2022.03.19-15.10.10:199][145]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Sword/BP_Sword.BP_Sword
+[2022.03.19-15.10.15:634][451]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/_Main/St/Equipment/DT_Equipment.DT_Equipment
+[2022.03.19-15.10.19:778][668]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/_Main/St/InventoryItems/DT_InventoryItemList.DT_InventoryItemList
+[2022.03.19-15.11.09:520][536]LogSavePackage: Moving output files for package: /Game/_Main/St/InventoryItems/DT_InventoryItemList
+[2022.03.19-15.11.09:521][536]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_InventoryItemList8AAD93C2486C94D8C1E96E9DE149119B.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/InventoryItems/DT_InventoryItemList.uasset'
+[2022.03.19-15.11.09:540][536]AssetCheck: New page: Asset Save: DT_InventoryItemList
+[2022.03.19-15.11.09:540][536]LogContentValidation: Display: Validating DataTable /Game/_Main/St/InventoryItems/DT_InventoryItemList.DT_InventoryItemList
+[2022.03.19-15.11.35:592][822]LogMaterial: Display: Missing cached shadermap for M_WeaponSet_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 25212163D0B522D3D3F574D6DFDB733395657BAF), compiling. 
+[2022.03.19-15.11.35:818][822]LogStaticMesh: Display: Building static mesh SM_Sword...
+[2022.03.19-15.11.35:818][822]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sword) ...
+[2022.03.19-15.11.35:881][823]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sword.SM_Sword
+[2022.03.19-15.11.36:502][841]LogTexture: Display: Building textures: /Game/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_BaseColor.T_Weapon_Set1_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.03.19-15.11.36:754][847]LogTexture: Display: Building textures: /Game/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_OcclusionRoughnessMetallic.T_Weapon_Set1_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.03.19-15.11.36:915][851]LogTexture: Display: Building textures: /Game/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_Normal.T_Weapon_Set1_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.03.19-15.11.39:319][906]LogShaderCompilers: Display: ================================================
+[2022.03.19-15.11.39:319][906]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.19-15.11.39:319][906]LogShaderCompilers: Display: Total job queries 41, among them cache hits 0 (0.00%)
+[2022.03.19-15.11.39:319][906]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.03.19-15.11.39:319][906]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.03.19-15.11.39:319][906]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.03.19-15.11.39:319][906]LogShaderCompilers: Display: Shaders Compiled: 41
+[2022.03.19-15.11.39:319][906]LogShaderCompilers: Display: Jobs assigned 27, completed 1 (3.70%)
+[2022.03.19-15.11.39:319][906]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: Time job spent in pending queue: average 0.45 s, longest 3.52 s
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: Job execution time: average 3.45 s, max 3.45 s
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: Job life time (pending + execution): average 3.52 s, max 3.52
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.52 s
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 3.00 jobs/batch
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: Average processing rate: 0.28 jobs/sec
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: Effective parallelization: 0.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2022.03.19-15.11.39:320][906]LogShaderCompilers: Display: ================================================
+[2022.03.19-15.11.42:188][970]BlueprintLog: New page: Compile BP_BaseWeapon
+[2022.03.19-15.11.42:397][970]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2022.03.19-15.11.42:975][977]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon
+[2022.03.19-15.11.42:977][977]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_BaseWeapon185E9866489B77A5C0DE639A101AD29C.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/Sword/BP_BaseWeapon.uasset'
+[2022.03.19-15.11.43:031][977]AssetCheck: New page: Asset Save: BP_BaseWeapon
+[2022.03.19-15.11.43:031][977]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.BP_BaseWeapon
+[2022.03.19-15.12.13:028][253]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2022.03.19-15.12.13:029][253]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/UE4_Mannequin_Skeleton1ECA97B347EBFD3A1ADA7281EEE64BB0.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.03.19-15.12.13:053][253]AssetCheck: New page: Asset Save: UE4_Mannequin_Skeleton
+[2022.03.19-15.12.13:053][253]LogContentValidation: Display: Validating Skeleton /Game/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2022.03.19-15.12.45:040][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/DT_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset" SILENT=true
+[2022.03.19-15.12.45:041][  4]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/DT_Equipment
+[2022.03.19-15.12.45:042][  4]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_Equipment2000AE62471A35F328E570AA8E4B098E.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset'
+[2022.03.19-15.12.45:065][  4]AssetCheck: New page: Asset Save: DT_Equipment
+[2022.03.19-15.12.45:065][  4]LogContentValidation: Display: Validating DataTable /Game/_Main/St/Equipment/DT_Equipment.DT_Equipment
+[2022.03.19-15.12.58:655][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/ST_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/ST_Equipment.uasset" SILENT=true
+[2022.03.19-15.12.58:657][761]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/ST_Equipment
+[2022.03.19-15.12.58:658][761]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/ST_Equipment90FFDBC44C5997064678F9A4D19C8253.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/ST_Equipment.uasset'
+[2022.03.19-15.12.58:677][761]AssetCheck: New page: Asset Save: ST_Equipment
+[2022.03.19-15.12.58:677][761]LogContentValidation: Display: Validating UserDefinedStruct /Game/_Main/St/Equipment/ST_Equipment.ST_Equipment
+[2022.03.19-15.13.01:160][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/DT_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset" SILENT=true
+[2022.03.19-15.13.01:161][904]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/DT_Equipment
+[2022.03.19-15.13.01:162][904]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_EquipmentD1070060414229AD9DA360A727DAE6E1.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset'
+[2022.03.19-15.13.01:179][904]AssetCheck: New page: Asset Save: DT_Equipment
+[2022.03.19-15.13.01:179][904]LogContentValidation: Display: Validating DataTable /Game/_Main/St/Equipment/DT_Equipment.DT_Equipment
+[2022.03.19-15.13.17:005][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/DT_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset" SILENT=true
+[2022.03.19-15.13.17:006][797]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/DT_Equipment
+[2022.03.19-15.13.17:007][797]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_EquipmentB47C83904F0ABD2E3901AD9F9125957B.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset'
+[2022.03.19-15.13.17:025][797]AssetCheck: New page: Asset Save: DT_Equipment
+[2022.03.19-15.13.17:025][797]LogContentValidation: Display: Validating DataTable /Game/_Main/St/Equipment/DT_Equipment.DT_Equipment
+[2022.03.19-15.13.37:031][990]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.13.37:031][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.13.37:085][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Bluprints/Items/Sword/BP_Sword.BP_Sword
+[2022.03.19-15.13.37:085][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.13.40:106][120]LogSlate: Window 'BP_Sword' being destroyed
+[2022.03.19-15.13.40:112][120]LogSlate: Window 'BP_Sword' being destroyed
+[2022.03.19-15.13.40:119][120]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.13.40:119][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.13.40:204][120]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.19-15.13.40:204][120]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.13.40:204][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.13.40:274][120]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.13.40:274][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.13.40:340][120]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.13.40:340][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.13.40:423][120]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.19-15.13.40:424][120]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.13.40:424][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.13.41:143][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.BP_BaseWeapon
+[2022.03.19-15.13.41:144][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.13.48:127][472]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.03.19-15.13.48:133][472]LogSlate: Window 'BP_BaseWeapon' being destroyed
+[2022.03.19-15.13.48:136][472]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.03.19-15.13.48:136][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.19-15.13.55:474][867]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.19-15.13.55:480][867]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.19-15.13.55:494][868]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.03.19-15.13.56:490][928]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.03.19-15.13.56:491][928]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.19-15.14.00:208][151]LogContentBrowser: Attempting asset rename: Sword -> weapons
+[2022.03.19-15.14.00:236][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_Sword.BP_Sword_C' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.00:236][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_Sword.SKEL_BP_Sword_C' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.00:236][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_Sword.SKEL_BP_Sword_C:ReceiveBeginPlay' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.00:236][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_Sword.SKEL_BP_Sword_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.00:236][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_Sword.SKEL_BP_Sword_C:ReceiveTick' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.00:236][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_Sword.SKEL_BP_Sword_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.BP_BaseWeapon:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.BP_BaseWeapon_C' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.BP_BaseWeapon:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:ReceiveTick' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:240][151]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.SKEL_BP_BaseWeapon_C:ReceiveBeginPlay' ref from Metadata '/Game/_Main/Bluprints/Items/Sword/BP_BaseWeapon.PackageMetaData'
+[2022.03.19-15.14.00:307][151]LogSavePackage: Moving output files for package: /Game/_Main/St/InventoryItems/DT_InventoryItemList
+[2022.03.19-15.14.00:307][151]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_InventoryItemList92A07F3F40553A31AD1C019335103964.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/InventoryItems/DT_InventoryItemList.uasset'
+[2022.03.19-15.14.00:309][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/ST_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/ST_Equipment.uasset" SILENT=true
+[2022.03.19-15.14.00:310][151]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/ST_Equipment
+[2022.03.19-15.14.00:311][151]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/ST_Equipment262FA3A84D5EFD55B5228DADD079AA8F.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/ST_Equipment.uasset'
+[2022.03.19-15.14.00:312][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/DT_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset" SILENT=true
+[2022.03.19-15.14.00:313][151]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/DT_Equipment
+[2022.03.19-15.14.00:314][151]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_EquipmentA5BC2ED045D4DB1FE19A7F900BB0D596.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset'
+[2022.03.19-15.14.00:319][151]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/weapons/BP_Sword
+[2022.03.19-15.14.00:319][151]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_SwordCDA47AEE4C216F0A38A9629F8B141AF4.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/weapons/BP_Sword.uasset'
+[2022.03.19-15.14.00:323][151]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon
+[2022.03.19-15.14.00:323][151]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_BaseWeaponF4A7CF8D4B092D10E2A2AEBC6B8A5F9D.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/weapons/BP_BaseWeapon.uasset'
+[2022.03.19-15.14.00:499][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.19-15.14.00:590][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.03.19-15.14.00:629][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.19-15.14.00:652][151]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.19-15.14.00:652][151]LogContentValidation: Display: Validating UserDefinedStruct /Game/_Main/St/Equipment/ST_Equipment.ST_Equipment
+[2022.03.19-15.14.00:652][151]LogContentValidation: Display: Validating DataTable /Game/_Main/St/Equipment/DT_Equipment.DT_Equipment
+[2022.03.19-15.14.00:652][151]LogContentValidation: Display: Validating DataTable /Game/_Main/St/InventoryItems/DT_InventoryItemList.DT_InventoryItemList
+[2022.03.19-15.14.00:652][151]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/weapons/BP_Sword.BP_Sword
+[2022.03.19-15.14.00:652][151]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon.BP_BaseWeapon
+[2022.03.19-15.14.03:068][282]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.19-15.14.03:122][282]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.19-15.14.03:132][283]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.03.19-15.14.04:942][392]LogContentBrowser: Attempting asset rename: NewFolder -> sword01
+[2022.03.19-15.14.04:942][392]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.19-15.14.07:984][567]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_Sword.BP_Sword_C' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.07:984][567]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_Sword.SKEL_BP_Sword_C' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.07:984][567]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_Sword.SKEL_BP_Sword_C:ReceiveBeginPlay' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.07:984][567]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_Sword.SKEL_BP_Sword_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.07:984][567]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_Sword.SKEL_BP_Sword_C:ReceiveTick' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.07:984][567]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_Sword.SKEL_BP_Sword_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_Sword.PackageMetaData'
+[2022.03.19-15.14.08:054][567]LogSavePackage: Moving output files for package: /Game/_Main/St/InventoryItems/DT_InventoryItemList
+[2022.03.19-15.14.08:054][567]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_InventoryItemListC33BCDD34F4F50541469F79320364D60.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/InventoryItems/DT_InventoryItemList.uasset'
+[2022.03.19-15.14.08:061][567]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/weapons/sword01/BP_Sword
+[2022.03.19-15.14.08:061][567]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_Sword1AE3E07A4A84D0CD6030DCACAD093D69.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/weapons/sword01/BP_Sword.uasset'
+[2022.03.19-15.14.08:117][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.03.19-15.14.08:150][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.19-15.14.08:178][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.03.19-15.14.08:205][567]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.19-15.14.08:205][567]LogContentValidation: Display: Validating DataTable /Game/_Main/St/InventoryItems/DT_InventoryItemList.DT_InventoryItemList
+[2022.03.19-15.14.08:205][567]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/weapons/sword01/BP_Sword.BP_Sword
+[2022.03.19-15.14.09:679][646]LogContentBrowser: Deferred new asset file creation: BP_BaseWeapon_Child
+[2022.03.19-15.14.09:744][646]LogContentBrowser: Creating deferred item: BP_BaseWeapon_Child
+[2022.03.19-15.14.09:755][647]LogContentBrowser: Renaming the item being created (Deferred Item: BP_BaseWeapon_Child).
+[2022.03.19-15.14.10:116][669]LogContentBrowser: Attempting asset rename: BP_BaseWeapon_Child -> BP_BaseWeapon_Child
+[2022.03.19-15.14.10:121][669]LogContentBrowser: End creating deferred item BP_BaseWeapon_Child
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.BP_BaseWeapon_Child:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.SKEL_BP_BaseWeapon_Child_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.SKEL_BP_BaseWeapon_Child_C' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.BP_BaseWeapon_Child_C' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.BP_BaseWeapon_Child:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.BP_BaseWeapon_Child:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.BP_BaseWeapon_Child:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.BP_BaseWeapon_Child:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.BP_BaseWeapon_Child:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:869][766]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.BP_BaseWeapon_Child:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.11:969][766]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child
+[2022.03.19-15.14.11:969][766]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_BaseWeapon_ChildD389283146872A868D75E69298443621.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.uasset'
+[2022.03.19-15.14.12:019][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.03.19-15.14.12:049][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.03.19-15.14.12:080][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.03.19-15.14.12:109][766]AssetCheck: New page: Asset Save: BP_BaseWeapon_Child
+[2022.03.19-15.14.12:109][766]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.BP_BaseWeapon_Child
+[2022.03.19-15.14.13:691][857]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/_Main/St/Equipment/ST_Equipment.ST_Equipment
+[2022.03.19-15.14.23:260][390]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/_Main/St/Equipment/DT_Equipment.DT_Equipment
+[2022.03.19-15.14.32:836][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/DT_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset" SILENT=true
+[2022.03.19-15.14.32:837][948]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/DT_Equipment
+[2022.03.19-15.14.32:838][948]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_Equipment491E45E24CE7ED660C2C17AFA9C4002D.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset'
+[2022.03.19-15.14.32:853][948]AssetCheck: New page: Asset Save: DT_Equipment
+[2022.03.19-15.14.32:853][948]LogContentValidation: Display: Validating DataTable /Game/_Main/St/Equipment/DT_Equipment.DT_Equipment
+[2022.03.19-15.14.33:672][997]LogSlate: Window 'DT_Equipment' being destroyed
+[2022.03.19-15.14.33:679][997]LogSlate: Window 'DT_Equipment' being destroyed
+[2022.03.19-15.14.40:286][386]LogContentBrowser: Attempting asset rename: BP_BaseWeapon_Child -> BP_BaseWeaponSword01
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.BP_BaseWeaponSword01_C' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.SKEL_BP_BaseWeaponSword01_C' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.SKEL_BP_BaseWeaponSword01_C:UserConstructionScript' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.BP_BaseWeaponSword01:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.BP_BaseWeaponSword01:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.BP_BaseWeaponSword01:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.BP_BaseWeaponSword01:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.BP_BaseWeaponSword01:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.BP_BaseWeaponSword01:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:305][386]LogMetaData: Removing '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.BP_BaseWeaponSword01:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeapon_Child.PackageMetaData'
+[2022.03.19-15.14.40:376][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/St/Equipment/DT_Equipment" FILE="../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset" SILENT=true
+[2022.03.19-15.14.40:377][386]LogSavePackage: Moving output files for package: /Game/_Main/St/Equipment/DT_Equipment
+[2022.03.19-15.14.40:377][386]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/DT_Equipment5F9345A745002BA281AD83AE0C5863D5.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/St/Equipment/DT_Equipment.uasset'
+[2022.03.19-15.14.40:382][386]LogSavePackage: Moving output files for package: /Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01
+[2022.03.19-15.14.40:382][386]LogSavePackage: Moving '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Saved/BP_BaseWeaponSword013022E99749A24D31C9765AA2804C6673.tmp' to '../../../../../../Users/mario/Documents/Unreal Projects/RpgInventory/Content/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.uasset'
+[2022.03.19-15.14.40:435][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.19-15.14.40:470][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.19-15.14.40:500][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.19-15.14.40:507][386]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.19-15.14.40:507][386]LogContentValidation: Display: Validating DataTable /Game/_Main/St/Equipment/DT_Equipment.DT_Equipment
+[2022.03.19-15.14.40:507][386]LogContentValidation: Display: Validating Blueprint /Game/_Main/Bluprints/Items/weapons/sword01/BP_BaseWeaponSword01.BP_BaseWeaponSword01
+[2022.03.19-15.14.56:480][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/GameMode/PC_InventoryController.PC_InventoryController
+[2022.03.19-15.14.56:481][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.03.19-15.14.57:967][369]BlueprintLog: New page: Compile PC_InventoryController
+[2022.03.19-15.14.59:566][369]LogWindows: Error: === Critical error: ===
+[2022.03.19-15.14.59:566][369]LogWindows: Error: 
+[2022.03.19-15.14.59:566][369]LogWindows: Error: Fatal error!
+[2022.03.19-15.14.59:566][369]LogWindows: Error: 
+[2022.03.19-15.14.59:566][369]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff
+[2022.03.19-15.14.59:566][369]LogWindows: Error: 
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcf689e160 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcf689e23d UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcf6887dc1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcf6add378 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcf694fafc UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcf69496fb UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcf6948f1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcf6bb6c28 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcf6bb60f6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcd18967ff UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcd1850720 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffccffd0b2d UnrealEditor-Kismet.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffccff74107 UnrealEditor-Kismet.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffccff73ec0 UnrealEditor-Kismet.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcd186f36e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcd0085efb UnrealEditor-Kismet.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcd00a112c UnrealEditor-Kismet.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcef9cb018 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcefaada8b UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcefa90c24 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcefb2b90b UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcefb52cc6 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcef8f4034 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcef8d6fc6 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcef9502de UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcef9391b1 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcef92d5dc UnrealEditor-Slate.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcfcd5a92e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcfcd49247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcfcd5ce51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcfcd449a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffd3ab11c4c USER32.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffd3ab10ea6 USER32.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffcfcd5e148 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ff719d17114 UnrealEditor.exe!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ff719d30d9c UnrealEditor.exe!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ff719d30e8a UnrealEditor.exe!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ff719d33c4d UnrealEditor.exe!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ff719d45534 UnrealEditor.exe!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ff719d486d6 UnrealEditor.exe!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffd399354e0 KERNEL32.DLL!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: [Callstack] 0x00007ffd3b0a485b ntdll.dll!UnknownFunction []
+[2022.03.19-15.14.59:566][369]LogWindows: Error: 
+[2022.03.19-15.14.59:578][369]LogExit: Executing StaticShutdownAfterError
+[2022.03.19-15.14.59:581][369]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.03.19-15.14.59:581][369]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.03.19-15.14.59:581][369]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.03.19-15.14.59:586][369]Log file closed, 03/19/22 15:14:59
